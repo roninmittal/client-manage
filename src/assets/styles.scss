@@ -1,0 +1,30 @@
+.filter {
+    max-height: 145px;
+    overflow: scroll;
+}
+caption {
+    caption-side: top !important;
+    padding-left: 0.5rem;
+    border: 1px solid #dee2e6;
+    border-bottom: none;
+    font-weight: 500;
+}
+.login-form {
+    max-width: 400px;
+    margin: auto;
+    margin-top: 200px;
+    padding: 1.5rem;
+    border-radius: 5px;
+    background-color: rgba(0,0,0,0.04);
+}
+
+.select-client-info {
+    max-width: 350px;
+}
+.filter-calendar {
+    max-width: 365px;
+}
+.edit-btn {
+    margin-left: 5px;
+    padding: 0 0.25rem !important;
+}
